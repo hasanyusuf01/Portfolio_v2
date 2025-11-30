@@ -102,7 +102,7 @@ function App() {
            <div className="container mx-auto px-6 relative z-10 text-center">
               <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-8">Get In Touch</h2>
               <p className="text-slate-600 text-lg mb-12 max-w-2xl mx-auto">
-                 Currently looking for new opportunities. Whether you have a question about my research or just want to say hi, I'll try my best to get back to you!
+                  Whether you have a question about my research or just want to say hi, I'll try my best to get back to you!
               </p>
               
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-3xl mx-auto mb-12">
