@@ -40,7 +40,7 @@ function App() {
           <div className="container mx-auto px-6">
             <div className="flex flex-col md:flex-row justify-between items-end mb-12">
                <div>
-                  <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 tracking-tight">Featured Projects</h2>
+                  <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 tracking-tight"> Projects</h2>
                   <p className="text-slate-500 max-w-xl text-lg">
                     A selection of my work in Robotics, AI/ML, and Software Development.
                   </p>
@@ -92,7 +92,7 @@ function App() {
           </div>
         </section>
 
-        {/* Certificates Section */}
+        /* {/* Certificates Section */}
         <section className="py-24 bg-slate-50">
            <div className="container mx-auto px-6">
               <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-12 text-center">Certifications</h2>
@@ -111,7 +111,7 @@ function App() {
                  ))}
               </div>
            </div>
-        </section>
+        </section> */
 
         {/* Contact Section */}
         <section id="contact" className="py-24 bg-white relative overflow-hidden">
