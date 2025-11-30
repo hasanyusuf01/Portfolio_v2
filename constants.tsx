@@ -4,8 +4,8 @@ import { Github, Linkedin, Mail, MapPin, Phone, GraduationCap, Briefcase, FileTe
 export const PERSONAL_INFO = {
   name: "Yusuf Hasan",
   role: "AI/ML Engineer & Researcher",
-  shortBio: "Passionate Computer Engineering student with a strong academic foundation (8.67 CPI) and over 18 months of professional experience in AI/ML engineering across international organizations.",
-  longBio: "I'm Yusuf Hasan, a passionate Computer Engineering student at Zakir Husain College of Engineering and Technology, AMU. My journey spans from developing cutting-edge deep learning models to building scalable web applications, with a particular focus on computer vision, autonomous systems, and intelligent software solutions.",
+  shortBio: "Passionate Computer Engineer with a strong academic foundation and over 2 years of professional experience in AI/ML engineering across international organizations.",
+  longBio: "I'm Yusuf Hasan, a passionate Computer Engineer. My journey spans from developing cutting-edge deep learning models to building scalable software and AI applications, with a particular focus on computer vision, autonomous systems, and intelligent software solutions.",
   email: "yusufhasan1209@gmail.com",
   phone: "+91 8979159476",
   location: "Aligarh, Uttar Pradesh, India",
