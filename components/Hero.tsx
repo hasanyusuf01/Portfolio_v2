@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
               transition={{ duration: 0.5 }}
             >
               <div className="inline-block px-3 py-1 mb-4 text-xs font-semibold tracking-wider text-blue-600 uppercase bg-blue-50 rounded-full border border-blue-100">
-                AI/ML Engineer Portfolio
+                AI/ML Engineer 
               </div>
               <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight text-slate-900">
                 Hi, I'm <span className="text-primary">{PERSONAL_INFO.name.split(' ')[0]}</span>
