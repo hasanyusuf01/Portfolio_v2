@@ -92,26 +92,7 @@ function App() {
           </div>
         </section>
 
-        /* {/* Certificates Section */}
-        <section className="py-24 bg-slate-50">
-           <div className="container mx-auto px-6">
-              <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-12 text-center">Certifications</h2>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                 {CERTIFICATES.map((cert) => (
-                    <div key={cert.id} className="bg-white border border-slate-100 p-6 rounded-xl shadow-sm hover:shadow-md hover:border-blue-200 transition-all group">
-                       <h3 className="text-lg font-bold text-slate-800 mb-2 group-hover:text-primary transition-colors">{cert.title}</h3>
-                       <p className="text-primary font-medium text-sm mb-4">{cert.issuer} • {cert.date}</p>
-                       <p className="text-slate-500 text-sm mb-4 leading-relaxed">{cert.description}</p>
-                       <div className="flex flex-wrap gap-2">
-                          {cert.skills.map(s => (
-                             <span key={s} className="text-xs font-semibold text-slate-500 bg-slate-100 px-2 py-1 rounded">{s}</span>
-                          ))}
-                       </div>
-                    </div>
-                 ))}
-              </div>
-           </div>
-        </section> */
+
 
         {/* Contact Section */}
         <section id="contact" className="py-24 bg-white relative overflow-hidden">
